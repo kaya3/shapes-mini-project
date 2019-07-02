@@ -1,0 +1,100 @@
+rectangle 68.01 77.63 orange
+circle 88.06 green
+circle 18.29 green
+circle 71.71 red
+rectangle 17.91 8.75 orange
+circle 2.16 white
+circle 18.31 blue
+rectangle 39.31 97.19 blue
+rectangle 4.74 30.27 green
+rectangle 29.22 0.21 red
+rectangle 83.12 98.71 green
+rectangle 37.27 35.93 green
+rectangle 45.13 74.55 green
+circle 36.62 white
+circle 72.59 yellow
+rectangle 40.78 99.41 white
+rectangle 85.13 48.44 purple
+circle 10.67 green
+rectangle 59.22 62.84 blue
+rectangle 52.38 87.95 red
+circle 11.52 white
+rectangle 58.58 19.67 white
+rectangle 83.07 74.04 yellow
+circle 8.91 white
+circle 52.50 purple
+rectangle 25.78 99.62 blue
+rectangle 40.75 99.65 red
+rectangle 83.16 76.31 white
+rectangle 26.37 11.10 white
+rectangle 86.04 84.75 black
+circle 72.66 yellow
+circle 7.10 blue
+circle 11.18 purple
+rectangle 35.32 57.28 orange
+rectangle 29.07 15.81 green
+rectangle 93.00 74.02 purple
+circle 56.40 yellow
+circle 62.97 purple
+circle 66.08 red
+rectangle 25.23 97.97 red
+rectangle 18.75 2.34 white
+circle 23.81 white
+rectangle 66.55 21.43 white
+rectangle 61.28 95.23 blue
+rectangle 49.64 6.50 blue
+circle 10.80 green
+circle 35.20 green
+rectangle 7.77 22.65 purple
+rectangle 27.12 54.93 green
+circle 56.70 red
+circle 6.88 white
+circle 48.44 blue
+rectangle 23.66 87.45 blue
+rectangle 97.41 43.70 purple
+rectangle 20.34 84.73 orange
+rectangle 1.27 99.46 purple
+rectangle 54.34 41.57 green
+rectangle 8.09 79.76 red
+circle 57.96 blue
+rectangle 73.33 87.10 orange
+rectangle 2.03 28.26 green
+rectangle 43.59 40.66 blue
+rectangle 34.60 81.46 black
+circle 53.11 orange
+rectangle 38.14 99.31 black
+rectangle 8.59 62.41 yellow
+rectangle 75.22 65.25 purple
+rectangle 25.79 79.32 blue
+circle 51.05 white
+circle 61.16 red
+rectangle 25.64 27.22 black
+rectangle 63.98 88.85 red
+rectangle 35.88 40.02 black
+circle 47.66 red
+circle 15.03 red
+rectangle 33.12 3.14 green
+rectangle 39.88 3.91 white
+rectangle 5.59 39.56 orange
+rectangle 62.74 18.71 orange
+circle 11.90 white
+circle 76.94 red
+circle 57.47 white
+rectangle 69.25 73.46 green
+rectangle 22.18 55.99 green
+circle 14.33 red
+rectangle 65.30 50.63 orange
+circle 49.33 yellow
+circle 73.25 yellow
+circle 8.61 blue
+rectangle 21.38 37.42 red
+rectangle 49.70 79.68 white
+rectangle 91.62 66.09 orange
+rectangle 43.75 54.09 black
+circle 57.17 blue
+circle 5.78 purple
+rectangle 20.05 77.57 orange
+circle 63.56 orange
+rectangle 84.66 54.22 blue
+rectangle 4.23 32.25 orange
+circle 66.26 black
